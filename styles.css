@@ -1,3 +1,8 @@
+.infoHeader{
+    font-size: 1.1em;
+    font-weight: bolder;
+}
+
 body { 
     margin: 0;
     padding: 0; 
@@ -12,20 +17,23 @@ body {
 
 .map-overlay {
     position: absolute;
-    left: 1px;
-    background-color: rgba(0, 0, 0, 0.6);
-    font-size: .85em;
-    color: rgb(228, 228, 228);
-    margin-left: -2%;
-    padding-right: 1.5em;    
+    background-color: rgba(215, 191, 191, 0.706);
+    font-size: 0.9em;
+    color: rgb(61, 9, 9);
+    margin: auto;
+    padding-right: 1.8em;   
+    text-align: left;
+    align-items: center;
+    justify-content: flex-start;
+    font-family: 'Roboto Slab', serif;
 }
 
-.legendHeader{
-    font-size: 1em;
+.infoHeader{
+    font-size: 1.1em;
     font-weight: bolder;
   }
 
-  li{
+li{
     list-style-type: none;
-    border-left: 2em solid red;
+    border-left: 1em dotted red;
 }
