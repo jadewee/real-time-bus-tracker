@@ -9,7 +9,7 @@ Repository includes html, javascript and image files. Download them and ensure i
   <li>You will need to create an account to get an access token for <a href="https://www.mapbox.com/">Mapbox</a></li>
   <li>You will need do an API call for MBTA live data.</li>
 </ul>
-<br>View the demo website <a href="https://jadewee.github.io/projects/maps.html">here.
+View the demo website <a href="https://jadewee.github.io/projects/maps.html">here.
 
 <h3>Roadmap of future improvements</h3>
   This is my plan to work on next in this repository:
