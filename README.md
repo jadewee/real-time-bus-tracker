@@ -6,7 +6,7 @@ An interactive website that tracks MBTA bus movements and seat availability on a
 <h2>How to Run</h2>
 Repository includes html, javascript and image files. Download them and ensure it's in the same file structure.
 <ul>
-  <li>You will need to create an account to get an access token for <a href="https://www.mapbox.com/">Mapbox</li>
+  <li>You will need to create an account to get an access token for <a href="https://www.mapbox.com/">Mapbox</a></li>
   <li>You will need do an API call for MBTA live data.</li>
 </ul>
 <br>View the demo website <a href="https://jadewee.github.io/projects/maps.html">here.
